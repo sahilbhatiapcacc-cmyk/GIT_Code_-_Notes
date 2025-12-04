@@ -1,0 +1,6 @@
+Git is just a version control system that helps to track code.
+
+Commands to chnage the user name or user email:
+1. git config global user.name "user_name"
+2. git config global user.email "user_email_id_name"
+
