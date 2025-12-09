@@ -4,7 +4,30 @@ GIT CODE & NODE is not a repository ...... GIT_Code_-_Notes is a repository so t
 
 Git is just a version control system that helps to track code.
 
+
+
 Commands to chnage the user name or user email:
 1. git config global user.name "user_name"
 2. git config global user.email "user_email_id_name"
 
+
+
+COMMAND TO CHANGE THE DIRECTORY: 
+1. cd .. (for exit from current directory)
+2. cd <directory name> 
+
+
+
+COMMANDS TO PULL :
+1. git pull (do it everytime before uploading comitting)
+
+
+
+COMMANDS TO PUSH :
+1. git add . ( . means to add al the files not indivisually one)
+2. git commit -m "your commit comment"
+3. git push 
+
+
+
+COMMANDS TO PUSH WHEN A NEW REPO IS MADE(TO CHANGE THE BRANCH , SELECT THE REMOTE):\
