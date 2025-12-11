@@ -41,3 +41,11 @@ TO WORK WITH BRANCH :
 4. git checkout <branch name> (TO NAVIGATE BETWEEN BRANCH)
 5. git checkout -b <new branch name> (TO CREATE NEW BRANCH)
 6. git branch -d <branch name> (TO DELETE BRANCH)
+
+
+TO UNDO THE CHNAGES[AFTER ADDING] :
+1. git reset <file name> (to reset all files at once then "git reset")
+
+TO UNDO THE CHANGES [AFTER COMMITTING]:
+1. git reset HEAD~1 (for one commit change)
+2.
