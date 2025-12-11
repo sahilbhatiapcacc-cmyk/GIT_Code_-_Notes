@@ -31,3 +31,13 @@ COMMANDS TO PUSH :
 
 
 COMMANDS TO PUSH WHEN A NEW REPO IS MADE(TO CHANGE THE BRANCH , SELECT THE REMOTE):\
+1.to change the remote repo => git remote add origin <link>
+2.git remote -v (to check the remote)
+
+TO WORK WITH BRANCH :
+1. git branch (to check what branch are we in)
+2. gir branch -M <new name> (new name => main,earlier it can be "master")(TO RENAME THE BRANCH NAME)
+3. git push -u origin main (-u means after this code in future it will always work in origin main)
+4. git checkout <branch name> (TO NAVIGATE BETWEEN BRANCH)
+5. git checkout -b <new branch name> (TO CREATE NEW BRANCH)
+6. git branch -d <branch name> (TO DELETE BRANCH)
